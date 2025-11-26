@@ -1,0 +1,48 @@
+C:\Users\Sebas\Desktop\Sebastian\UPN\Proyecto\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Sebas\Desktop\Sebastian\UPN\Proyecto\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Sebas\Desktop\Sebastian\UPN\Proyecto\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Sebas\Desktop\Sebastian\UPN\Proyecto\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Desktop\Sebastian\UPN\Proyecto\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Sebas\Desktop\Sebastian\UPN\Proyecto\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\USER\Downloads\SistemaVentas\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USER\Downloads\SistemaVentas\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USER\Downloads\SistemaVentas\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\SistemaVentas\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\SistemaVentas\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USER\Downloads\SistemaVentas\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\NICOLAS\Documents\t1_ihc-vs\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\NICOLAS\Documents\t1_ihc-vs\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\NICOLAS\Documents\t1_ihc-vs\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\NICOLAS\Documents\t1_ihc-vs\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\NICOLAS\Documents\t1_ihc-vs\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\NICOLAS\Documents\t1_ihc-vs\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Diego\Downloads\CALIDAD Y PRUEBA\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Diego\Downloads\CALIDAD Y PRUEBA\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Diego\Downloads\CALIDAD Y PRUEBA\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Diego\Downloads\CALIDAD Y PRUEBA\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Downloads\CALIDAD Y PRUEBA\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Diego\Downloads\CALIDAD Y PRUEBA\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\NICOLAS\Documents\CALIDAD Y PRUEBA\TC_10_SEMANA_11\Proyecto_CALIDAD_VISUAL\Proyecto_CALIDAD_VISUAL\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\NICOLAS\Documents\CALIDAD Y PRUEBA\TC_10_SEMANA_11\Proyecto_CALIDAD_VISUAL\Proyecto_CALIDAD_VISUAL\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\NICOLAS\Documents\CALIDAD Y PRUEBA\TC_10_SEMANA_11\Proyecto_CALIDAD_VISUAL\Proyecto_CALIDAD_VISUAL\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\NICOLAS\Documents\CALIDAD Y PRUEBA\TC_10_SEMANA_11\Proyecto_CALIDAD_VISUAL\Proyecto_CALIDAD_VISUAL\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\NICOLAS\Documents\CALIDAD Y PRUEBA\TC_10_SEMANA_11\Proyecto_CALIDAD_VISUAL\Proyecto_CALIDAD_VISUAL\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\NICOLAS\Documents\CALIDAD Y PRUEBA\TC_10_SEMANA_11\Proyecto_CALIDAD_VISUAL\Proyecto_CALIDAD_VISUAL\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\NICOLAS\Documents\CALIDAD Y PRUEBA\TC_10_SEMANA_11\Proyecto_CALIDAD_VISUAL\Calidad_Proyect_ACTUALIZADO\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\NICOLAS\Documents\CALIDAD Y PRUEBA\TC_10_SEMANA_11\Proyecto_CALIDAD_VISUAL\Calidad_Proyect_ACTUALIZADO\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\NICOLAS\Documents\CALIDAD Y PRUEBA\TC_10_SEMANA_11\Proyecto_CALIDAD_VISUAL\Calidad_Proyect_ACTUALIZADO\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\NICOLAS\Documents\CALIDAD Y PRUEBA\TC_10_SEMANA_11\Proyecto_CALIDAD_VISUAL\Calidad_Proyect_ACTUALIZADO\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\NICOLAS\Documents\CALIDAD Y PRUEBA\TC_10_SEMANA_11\Proyecto_CALIDAD_VISUAL\Calidad_Proyect_ACTUALIZADO\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\NICOLAS\Documents\CALIDAD Y PRUEBA\TC_10_SEMANA_11\Proyecto_CALIDAD_VISUAL\Calidad_Proyect_ACTUALIZADO\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\ASUS\Downloads\peladez\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\ASUS\Downloads\peladez\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\ASUS\Downloads\peladez\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\peladez\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\peladez\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\ASUS\Downloads\peladez\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\NICOLAS\Documents\EVOLUCION_SOFTWARE\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\NICOLAS\Documents\EVOLUCION_SOFTWARE\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\NICOLAS\Documents\EVOLUCION_SOFTWARE\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\NICOLAS\Documents\EVOLUCION_SOFTWARE\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\NICOLAS\Documents\EVOLUCION_SOFTWARE\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\NICOLAS\Documents\EVOLUCION_SOFTWARE\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb

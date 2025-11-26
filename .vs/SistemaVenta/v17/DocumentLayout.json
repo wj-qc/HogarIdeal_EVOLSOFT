@@ -1,0 +1,616 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB813323-9111-40C9-92AF-287DB19FEE91}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\nicolas\\documents\\evolucion_software\\sistemaventas\\capanegocio\\cn_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB813323-9111-40C9-92AF-287DB19FEE91}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\modales\\mdproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\modales\\mdproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capadatos\\cd_negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FDC1A1-483F-44A0-A328-596D29EB7629}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FDC1A1-483F-44A0-A328-596D29EB7629}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capadatos\\cd_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capadatos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F60C8-E2FB-4F83-B355-010B705CD14F}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\resources\\plantillaventa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\resources\\plantillaventa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\resources\\plantillacompra.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\resources\\plantillacompra.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\modales\\mdproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\modales\\mdcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\modales\\mdcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FDC1A1-483F-44A0-A328-596D29EB7629}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FDC1A1-483F-44A0-A328-596D29EB7629}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\capapresentacion\\modales\\mdproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mdProveedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Modales\\mdProveedor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdProveedor.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Modales\\mdProveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdProveedor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:34:43.351Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaEntidad\\Cliente.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Cliente.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaEntidad\\Cliente.cs",
+              "RelativeToolTip": "CapaEntidad\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:33:26.116Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Inicio.cs",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAhwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:59:11.04Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmProducto.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:53:11.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmProducto.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmProducto.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmProducto.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmProducto.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADgv7sAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:53:19.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaEntidad\\Producto.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Producto.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaEntidad\\Producto.cs",
+              "RelativeToolTip": "CapaEntidad\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T22:32:34.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CN_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaNegocio\\CN_Cliente.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Cliente.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaNegocio\\CN_Cliente.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:36:10.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDetalleCompra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmDetalleCompra.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDetalleCompra.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmDetalleCompra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmDetalleCompra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:20:22.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CD_Negocio.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaDatos\\CD_Negocio.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Negocio.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaDatos\\CD_Negocio.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Negocio.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowG4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:01:37.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCompras.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmCompras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCompras.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmCompras.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmCompras.cs",
+              "ViewState": "AgIAAAECAAAAAAAAAAAuwOIBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:58:09.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mdProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Modales\\mdProveedor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdProveedor.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Modales\\mdProveedor.cs",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdProveedor.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAWwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T22:45:27.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCompras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmCompras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCompras.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmCompras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmCompras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T22:40:58.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmProveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmProveedores.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmProveedores.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmProveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmProveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:57:42.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmDetalleVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmDetalleVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDetalleVenta.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmDetalleVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmDetalleVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:27:35.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CD_Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaDatos\\CD_Categoria.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Categoria.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaDatos\\CD_Categoria.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Categoria.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:23:47.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-17T17:27:58.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CD_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaDatos\\CD_Cliente.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Cliente.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaDatos\\CD_Cliente.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Cliente.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAIwBcAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:30:30.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmDetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmDetalleVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDetalleVenta.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmDetalleVenta.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmDetalleVenta.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAD4v2sAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T21:55:50.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlantillaVenta.html",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Resources\\PlantillaVenta.html",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Resources\\PlantillaVenta.html",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Resources\\PlantillaVenta.html",
+              "RelativeToolTip": "CapaPresentacion\\Resources\\PlantillaVenta.html",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-17T22:26:55.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlantillaCompra.html",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Resources\\PlantillaCompra.html",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Resources\\PlantillaCompra.html",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Resources\\PlantillaCompra.html",
+              "RelativeToolTip": "CapaPresentacion\\Resources\\PlantillaCompra.html",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-17T22:26:33.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "mdProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Modales\\mdProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdProducto.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Modales\\mdProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T01:25:13.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "mdCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Modales\\mdCliente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdCliente.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Modales\\mdCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T21:44:29.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Inicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Inicio.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.Designer.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Inicio.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.Designer.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAawOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:55:00.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "mdCliente.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Modales\\mdCliente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdCliente.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Modales\\mdCliente.cs",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdCliente.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwDgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T21:45:26.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T21:27:44.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T20:54:00.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmCategoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmCategoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCategoria.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmCategoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmCategoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:51:12.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmUsuarios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmUsuarios.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:45:17.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:43:33.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmClientes.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmClientes.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:56:28.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmVentas.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmVentas.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmVentas.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAnwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:51:44.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Properties\\Resources.resx",
+              "RelativeToolTip": "CapaPresentacion\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-17T17:38:49.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Login.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Login.cs",
+              "RelativeToolTip": "CapaPresentacion\\Login.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:19:23.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmProveedores.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmProveedores.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmProveedores.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmProveedores.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADgv0wAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:57:45.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmUsuarios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmUsuarios.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmUsuarios.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmUsuarios.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwCIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:45:28.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmCategoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCategoria.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\frmCategoria.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmCategoria.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwG0AAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:51:18.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "mdProducto.cs",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Modales\\mdProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdProducto.cs",
+              "ToolTip": "C:\\Users\\NICOLAS\\Documents\\EVOLUCION_SOFTWARE\\SistemaVentas\\CapaPresentacion\\Modales\\mdProducto.cs",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdProducto.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwHgAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T01:27:40.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

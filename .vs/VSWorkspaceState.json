@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CapaDatos",
+    "\\CapaEntidad",
+    "\\CapaNegocio",
+    "\\CapaPresentacion",
+    "\\QuerySQL"
+  ],
+  "SelectedNode": "\\CapaPresentacion\\packages.config",
+  "PreviewInSolutionExplorer": false
+}
